@@ -1,0 +1,24 @@
+/*
+* courtney lenoir
+* due date
+* project name and description
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+{
+
+}
+header { text-align: center; background-color: #ff6666 ;} /*this formats the color of the background and where the text is*/
+h1 {font-family: cursive;} /* this formats the h1*/
+h2 {font-family: cursive;} /* this formats the h2*/
+#girls {float: right;} /* this formats where the image floats on the webpage*/
+#boyfriend {float: right;} /* this formats where the image floats on the webpage*/
+footer {clear:both; } /* thus is so the footer does not float around the pictures*/
+a:hover, a:focus { color: fuchsia;
+font-size: 170%;} /* this formats the links color and when the mouse goes over them they blow up*/
+body {background-color: pink;} /* this formats the whole background color*/
